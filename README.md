@@ -247,10 +247,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Chess Libraries**: For UI inspiration
 - **Arduino Community**: For motor control examples
 
-## 📞 Contact
+## 📞 Contact the Developers
 
 - **GitHub**: [@Anjula2001](https://github.com/Anjula2001)
-- **Project**: [ChessWizzz](https://github.com/Anjula2001/Chesswizzz)
+- **GitHub**: [@IsuruAdikaram8U](https://github.com/IsuruAdikaram8U)
+- **GitHub**: [@Bimsara-Sanduneth](https://github.com/Bimsara-Sanduneth)
+- **GitHub**: [@sasini20](https://github.com/sasini20)
+- **GitHub**: [@DinaraGamage](https://github.com/DinaraGamage)
+- **Project**: [ChessWiz](https://github.com/Team-ZEUS-ChessWiz/ChessWiz)
 
 ---
 
