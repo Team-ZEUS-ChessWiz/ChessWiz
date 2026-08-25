@@ -247,14 +247,79 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Chess Libraries**: For UI inspiration
 - **Arduino Community**: For motor control examples
 
-## 📞 Contact the Developers
+## 👥 Contributors
 
-- **GitHub**: [@Anjula2001](https://github.com/Anjula2001)
-- **GitHub**: [@IsuruAdikaram8U](https://github.com/IsuruAdikaram8U)
-- **GitHub**: [@Bimsara-Sanduneth](https://github.com/Bimsara-Sanduneth)
-- **GitHub**: [@sasini20](https://github.com/sasini20)
-- **GitHub**: [@DinaraGamage](https://github.com/DinaraGamage)
-- **Project**: [ChessWiz](https://github.com/Team-ZEUS-ChessWiz/ChessWiz)
+This project was developed collaboratively. The following contributors played key roles in different aspects of the system:
+
+<table>
+  <tr>
+    <!-- Member 1: Anjula (Leader) -->
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/Anjula2001">
+        <img src="https://github.com/Anjula2001.png?size=100" width="100px;" alt="Anjula Amarakoone" style="border-radius: 50%;"/><br />
+        <sub><b>Anjula Amarakoone</b></sub>
+      </a>
+      <p><i>Project Leader</i></p>
+      <div align="left">
+        <ul>
+          <li><i>To be updated...</i></li>
+        </ul>
+      </div>
+    </td>
+    <!-- Member 2: Isuru -->
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/IsuruAdikaram8U">
+        <img src="https://github.com/IsuruAdikaram8U.png?size=100" width="100px;" alt="Isuru Adikaram" style="border-radius: 50%;"/><br />
+        <sub><b>Isuru Adikaram</b></sub>
+      </a>
+      <div align="left">
+        <ul>
+          <li>Integrated Hall sensor grid</li>
+          <li>Designed sensor-to-ESP32 architecture</li>
+          <li>Developed real-time move detection algorithm</li>
+          <li>Designed the main PCB layout</li>
+          <li>Created 3D models for the enclosure</li>
+        </ul>
+      </div>
+    </td>
+    <!-- Member 3: Bimsara -->
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/Bimsara-Sanduneth">
+        <img src="https://github.com/Bimsara-Sanduneth.png?size=100" width="100px;" alt="Bimsara Sanduneth" style="border-radius: 50%;"/><br />
+        <sub><b>Bimsara Sanduneth</b></sub>
+      </a>
+      <div align="left">
+        <ul>
+          <li><i>To be updated...</i></li>
+        </ul>
+      </div>
+    </td>
+    <!-- Member 4: Sasini -->
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/sasini20">
+        <img src="https://github.com/sasini20.png?size=100" width="100px;" alt="Sasini" style="border-radius: 50%;"/><br />
+        <sub><b>Sasini</b></sub>
+      </a>
+      <div align="left">
+        <ul>
+          <li><i>To be updated...</i></li>
+        </ul>
+      </div>
+    </td>
+    <!-- Member 5: Dinara -->
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/DinaraGamage">
+        <img src="https://github.com/DinaraGamage.png?size=100" width="100px;" alt="Dinara Gamage" style="border-radius: 50%;"/><br />
+        <sub><b>Dinara Gamage</b></sub>
+      </a>
+      <div align="left">
+        <ul>
+          <li><i>To be updated...</i></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
