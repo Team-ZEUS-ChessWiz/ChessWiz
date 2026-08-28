@@ -301,11 +301,16 @@ This project was developed collaboratively. The following contributors played ke
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/sasini20">
         <img src="https://github.com/sasini20.png?size=100" width="100px;" alt="Sasini" style="border-radius: 50%;"/><br />
-        <sub><b>Sasini</b></sub>
+        <sub><b>Sasini Hansani</b></sub>
       </a>
       <div align="left">
         <ul>
-          <li><i>To be updated...</i></li>
+          <li><i>Selected and integrated the electromagnet</i></li>
+          <li><i>Designed the MOSFET-based electromagnet control circuit</i></li>
+          <li><i>Implemented flyback diode protection</i></li>
+          <li><i>Integrated electromagnet control with ESP32</i></li>
+          <li><i>Measured and calibrated the chessboard grid size</i></li>
+          <li><i>Tested electromagnet movement with the XY mechanism</i></li>
         </ul>
       </div>
     </td>
