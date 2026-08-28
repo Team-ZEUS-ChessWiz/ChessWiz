@@ -290,7 +290,10 @@ This project was developed collaboratively. The following contributors played ke
       </a>
       <div align="left">
         <ul>
-          <li><i>To be updated...</i></li>
+          <li><i>Integrated linear rail structure and motor mechanism</i></li>
+           <li><i>Handling motor using coreXY system</i></li>
+           <li><i>Motor Code-Arduino programming</i></li>
+           <li><i>Design special movements of chess pieces</i></li>
         </ul>
       </div>
     </td>
