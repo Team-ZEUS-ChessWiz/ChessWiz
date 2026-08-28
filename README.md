@@ -322,7 +322,11 @@ This project was developed collaboratively. The following contributors played ke
       </a>
       <div align="left">
         <ul>
-          <li><i>To be updated...</i></li>
+          <li><i>Setting limit switches for determine stepper motors limitations</i></li>
+          <li><i>Setup and program push buttons to do the movement and reset the game</i></li>
+          <li><i>Power supply management</i></li>
+          <li><i>Select the physical chess board material and surface.</i></li>
+          <li><i>Web Development (front-end)</i></li>
         </ul>
       </div>
     </td>
