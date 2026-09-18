@@ -262,7 +262,11 @@ This project was developed collaboratively. The following contributors played ke
       <p><i>Project Leader</i></p>
       <div align="left">
         <ul>
-          <li><i>To be updated...</i></li>
+          <li>Chess Game Logic – ESP Programming</li>
+          <li>Web Development (Back-end)</li>
+          <li>Handling the connection between ESP and Arduino.</li>
+          <li>Programming how to communicate movement signals between ESP and website.</li>
+          <li>PCB Design (Arduino ,ESP ,Electromagnet and Button connection).</li>
         </ul>
       </div>
     </td>
