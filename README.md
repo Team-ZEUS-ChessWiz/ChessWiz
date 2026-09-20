@@ -278,11 +278,11 @@ This project was developed collaboratively. The following contributors played ke
       </a>
       <div align="left">
         <ul>
-          <li>Integrated Hall sensor grid</li>
-          <li>Designed sensor-to-ESP32 architecture</li>
-          <li>Developed real-time move detection algorithm</li>
-          <li>Designed the main PCB layout</li>
-          <li>Created 3D models for the enclosure</li>
+          <li>Integrated the Hall Effect sensor grid</li>
+          <li>Implemented the connection between sensors, multiplexers, and ESP32</li>
+          <li>Developed the human-move detection algorithm</li>
+          <li>Designed the PCB (sensors, multiplexers, and ESP32)</li>
+          <li>Created 3D models of the internal mechanism and final product</li>
         </ul>
       </div>
     </td>
